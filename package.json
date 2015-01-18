@@ -1,0 +1,7 @@
+{
+  "main":"app.js",
+  "dependencies":{
+    "express":"*",
+    "http":"*"
+  }
+}
