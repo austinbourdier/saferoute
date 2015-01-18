@@ -3,5 +3,9 @@
   "dependencies":{
     "express":"*",
     "http":"*"
+  },
+  "engines": {
+    "node": "*",
+    "npm": "*"
   }
 }
